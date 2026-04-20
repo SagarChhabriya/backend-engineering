@@ -1,5 +1,7 @@
 # Backend Engineering Roadmap (Comprehensive Guide)
 
+- https://www.youtube.com/playlist?list=PLQnljOFTspQUNnO4p00ua_C5mKTfldiYT
+
 ## 1. Introduction
 
 Backend engineering is much more than building CRUD APIs. It involves creating:
